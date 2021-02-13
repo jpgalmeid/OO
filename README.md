@@ -26,5 +26,6 @@ Especificação do Trabalho Prático 01:
      - A máxima de temperatura daquele mês
 
   ATENÇÃO:
+  
     - Divida seu código em diferentes funções ou classes.
     - Para facilitar a correção do seu trabalho, na função main cadastre automaticamente dados aleatórios referentes ao mês de janeiro de 2020.
