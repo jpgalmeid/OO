@@ -20,10 +20,11 @@ Especificação do Trabalho Prático 01:
   aconteceu.
   5. Relatório meteorológico: o usuário deverá dizer qual é o mês e ano desejado e o programa irá 
   apresentar um relatório contendo:
-  • As médias de temperatura de cada um dos dias daquele mês
-  • A média de temperatura daquele mês
-  • A mínima de temperatura daquele mês
-  • A máxima de temperatura daquele mês
+   • As médias de temperatura de cada um dos dias daquele mês
+   • A média de temperatura daquele mês
+   • A mínima de temperatura daquele mês
+   • A máxima de temperatura daquele mês
+  
   ATENÇÃO:
   • Divida seu código em diferentes funções ou classes.
   • Para facilitar a correção do seu trabalho, na função main cadastre automaticamente dados aleatórios referentes ao mês de janeiro de 2020.
